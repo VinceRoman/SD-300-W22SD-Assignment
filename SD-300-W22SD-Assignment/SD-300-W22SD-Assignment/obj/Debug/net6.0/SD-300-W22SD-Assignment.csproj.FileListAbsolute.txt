@@ -1,0 +1,15 @@
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\bin\Debug\net6.0\SD-300-W22SD-Assignment.exe
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\bin\Debug\net6.0\SD-300-W22SD-Assignment.deps.json
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\bin\Debug\net6.0\SD-300-W22SD-Assignment.runtimeconfig.json
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\bin\Debug\net6.0\SD-300-W22SD-Assignment.dll
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\bin\Debug\net6.0\SD-300-W22SD-Assignment.pdb
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.csproj.AssemblyReference.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.AssemblyInfo.cs
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.dll
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\refint\SD-300-W22SD-Assignment.dll
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.pdb
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\SD-300-W22SD-Assignment.genruntimeconfig.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\SD-300-W22SD-Assignment\obj\Debug\net6.0\ref\SD-300-W22SD-Assignment.dll
